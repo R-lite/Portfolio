@@ -1,0 +1,17 @@
+/* --------------- PAGE TRANSITION EFFECT ------------- */
+/* .glob-container {
+    scroll-snap-type: none;
+    overflow-y: scroll;
+    height: 100vh;
+}
+header {
+    scroll-snap-align: start;
+}
+.about {
+    scroll-snap-align: start;
+}
+footer {
+    scroll-snap-align: start;
+} */
+
+/* -------------- Cursor Trail Effect ------------- */
